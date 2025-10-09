@@ -1,0 +1,28 @@
+{
+  "name": "Aayush Bartaula Portfolio",
+  "short_name": "Aayush Bartaula",
+  "description": "Portfolio of Aayush Bartaula — Full Stack MERN Developer from Nepal showcasing skills, projects, and contact information.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

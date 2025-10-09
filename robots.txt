@@ -1,0 +1,45 @@
+# Robots.txt for Aayush Bartaula Portfolio
+# Optimized for full search engine visibility and clean crawling
+
+User-agent: *
+Allow: /
+Allow: /images/
+Allow: /#about
+Allow: /#skills
+Allow: /#projects
+Allow: /#contact
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /test/
+
+# Sitemap location
+Sitemap: https://aayushbartaula.com.np/sitemap.xml
+
+# Crawl-delay (set to 0 for faster crawling)
+Crawl-delay: 0
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Google Images
+User-agent: Googlebot-Image
+Allow: /images/
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
